@@ -8,5 +8,5 @@
 <ul>
 Full Stack Development
 
-  <li>Python</li> <li>Django</li> DjangoREST Flask FastAPI Postgres DockerHTML5 CSS3 JavaScript Bootstrap
+  <li>Python</li> <li>Django</li> <li>DjangoREST</li> <li>Flask</li> <li/>Postgres</li> <li>HTML5</li> <li>CSS3</li> <li>JavaScript</li> <li>Bootstrap</li>
 </ul>
