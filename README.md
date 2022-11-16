@@ -5,6 +5,8 @@
 - 📫 How to reach me codewithmulualem@gmail.com
 
 🛠   Technologies I have been working with recently...
--Full Stack Development
+<ul>
+Full Stack Development
 
-<li>Python</li> Django DjangoREST Flask FastAPI Postgres DockerHTML5 CSS3 JavaScript Bootstrap
+  <li>Python</li> <li>Django</li> DjangoREST Flask FastAPI Postgres DockerHTML5 CSS3 JavaScript Bootstrap
+</ul>
